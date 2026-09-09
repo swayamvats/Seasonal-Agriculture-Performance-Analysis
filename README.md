@@ -209,7 +209,6 @@ The project can be extended in the future by:
 
 ## Author
 
-**Swayam Jha**
-
-BCA Student  
+**SOYAM**
+ 
 Data Analytics Project
